@@ -1,1 +1,1 @@
-{"master":{"ip":"0.0.0.0","port":"2345"},"staff":"ws://127.0.0.1:2345","datnban":{"ip":"127.0.0.1","name":"root"}}
+{"master":{"ip":"0.0.0.0","port":"2345"},"staff":"ws://127.0.0.1:2345","datnban":{"ip":"localhost","name":"root"}}
