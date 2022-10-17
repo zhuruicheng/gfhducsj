@@ -11,6 +11,11 @@
         "ip": "127.0.0.1",
         "port": "2345"
     },
+    "predict": {
+        "ip": "127.0.0.1",
+        "port": "8880",
+        "BUFLEN": "5120"
+    },
     "datnban": {
         "ip": "localhost",
         "name": "root",
