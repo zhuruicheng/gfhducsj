@@ -3,7 +3,9 @@
         "ip": "0.0.0.0",
         "port": "2345",
         "train_port": "8880",
-        "train_buflen": "5120"
+        "train_buflen": "5120",
+        "global_data": "0.0.0.0",
+        "global_data_port": "2207"
     },
     "player": {
         "ip": "0.0.0.0",
@@ -15,7 +17,9 @@
     },
     "staff": {
         "ip": "47.242.231.52",
-        "port": "2345"
+        "port": "2345",
+        "global_data": "47.242.231.52",
+        "global_data_port": "2207"
     },
     "predict": {
         "ip": "127.0.0.1",
