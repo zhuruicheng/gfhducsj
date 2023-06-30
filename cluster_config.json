@@ -32,6 +32,6 @@
         "port": "1122"
     },
     "remote_file_system":{
-        "url":"http://remotefile.gtbot/main.php"
+        "url":"http://remotefile.gtbot/main.php?remote_file=true"
     }
 }
