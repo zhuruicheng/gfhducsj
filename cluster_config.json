@@ -34,5 +34,6 @@
     "remote_file_system":{
         "url":"http://file.gtbot.work/main.php"
     },
-    "api":"https://api.gtbot.work/main.php"
+    "api":"https://api.gtbot.work/main.php",
+    "webip":"8.217.83.67"
 }
